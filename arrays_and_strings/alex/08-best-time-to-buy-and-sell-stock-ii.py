@@ -1,4 +1,4 @@
-class Solution:
+klass Solution:
     def maxProfit(self, prices: List[int]) -> int:
         profit = 0
 
